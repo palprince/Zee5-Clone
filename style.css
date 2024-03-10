@@ -1,0 +1,212 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.appHeader{
+    background-color: #0f0617;
+    position: fixed;
+    top: 0%;
+    width: 100%;
+    z-index: 101;
+    left: 0%;
+}
+
+.headerWrap{
+    height: 49px;
+    margin-top: 16px 16px 0px 16px;
+    position: relative;
+    
+}
+
+#image{
+    height: 40px;
+    width: 70px;
+}
+
+#Home{
+    text-decoration: none;
+    color: #ffffffe6;
+    font-weight: 400;
+    font-family: sans-serif;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+    
+#TV{
+    text-decoration: none;
+    color: #ffffffe6;
+    font-weight: 400;
+    font-family: sans-serif;
+    padding-left: 18px;
+    padding-right: 18px;
+}  
+
+#Movies{
+    text-decoration: none;
+    color: #ffffffe6;
+    font-weight: 400;
+    font-family: sans-serif;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+#Cricket{
+    text-decoration: none;
+    color: #ffffffe6;
+    font-weight: 400;
+    font-family: sans-serif;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+#Premium{
+    text-decoration: none;
+    color: #ffffffe6;
+    font-weight: 400;
+    font-family: sans-serif;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+#Series{
+    text-decoration: none;
+    color: #ffffffe6;
+    font-weight: 400;
+    font-family: sans-serif;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+.headerRight{
+    height: 38px;
+    width: 641.04px;
+    margin: 6px,0px,0px;
+    box-sizing: border-box;
+    float: right;
+    text-align: right;
+    border: 0;
+    margin: 0;
+    padding: 0px,32px,0px,0px;
+    font-size: 10px;
+    font-family: sans-serif;
+    vertical-align: baseline;
+    color: #000000;
+}
+
+input{
+    width: 232px;
+    height: 35px;
+    padding: 9px,0px;
+    /* margin-right: 400px; */
+    background-color: #0f0617;
+    border-radius: 5px;
+}
+
+#login{
+    width: 65px;
+    height: 36px;
+    border-radius: 5px;
+    color: #ffffff;
+    font-size: 12px;
+    font-family: sans-serif;
+    margin: 0px,20px,0px,0px;
+    padding: 0px,12px;
+    background-color: #0f0617;
+}
+
+#plan{
+    width: 106px;
+    height: 37px;
+    background-color: #8230C6;
+    margin: 0px,24px,0px,0px;
+    padding: 11px,12px;
+    color: #ffffff;
+}
+
+#sam{
+    margin-top: 57px;
+    width: 100%;
+    height: 550px;
+}
+
+body{
+    background-color: #0f0617;
+}
+
+.trayHeader{
+    width: 1180px;
+    height: 31px;
+    margin: 16px,10px,16px,0px;
+}
+
+h2{
+    width: 299px;
+    height: 29px;
+    padding: 0px,112px,0px,0px;
+    color: #ffffff;
+    font-family: sans-serif;
+    margin-left: 40px;
+}
+
+.film{
+    background-color: #0f0617;
+    height: 328px;
+    width: 100%;
+    margin-top: 15px;
+}
+
+#gadar2{
+    width: 16.66%;
+    height: 328px;
+    background-color: aquamarine;
+    display: inline-block;
+    background-image: url(gadar2.webp);
+    background-size: cover;
+}
+
+#kerela{
+    width: 16.66%;
+    height: 328px;
+    background-color: aquamarine;
+    display: inline-block;
+    background-image: url(kerela_story.webp);
+    background-size: cover;
+}
+
+#khichdi2{
+    width: 16.66%;
+    height: 328px;
+    background-color: aquamarine;
+    display: inline-block;
+    background-image: url(khichdi2.webp);
+    background-size: cover;
+}
+
+#latrani{
+    width: 16.66%;
+    height: 328px;
+    background-color: aquamarine;
+    display: inline-block;
+    background-image: url(latrani.webp);
+    background-size: cover;
+}
+
+#bahadur{
+    width:16%;
+    height: 328px;
+    background-color: aquamarine;
+    display: inline-block;
+    background-image: url(sam_bahadur.webp);
+    background-size: cover;
+}
+
+#tejas{
+    width: 16%;
+    height: 328px;
+    background-color: aquamarine;
+    display: inline-block;
+    background-image: url(tejas.webp);
+    background-size: cover;
+}

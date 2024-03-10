@@ -1,0 +1,10 @@
+/* Add this CSS to your stylesheet or within a `<style>` tag in the `<head>` section of your HTML file */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif}
